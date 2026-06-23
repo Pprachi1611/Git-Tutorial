@@ -34,15 +34,14 @@ This repository contains my hands-on practice, notes, commands, examples, and ex
 Git-Tutorial
 │
 ├── Notes
-│   ├── Git-Basics.md
-│   ├── Git-Commands.md
-│   └── Branching.md
+│   ├── 01-Git-Basics.md
+│   ├── 02-GitHub.md
+│   ├── 03-Branching.md
+│   └── 04-Common-Errors.md
 │
-├── Practice
-│   ├── Developer-Main
-│   └── Developer-2
+├── README.md
 │
-└── README.md
+└── index.html
 ```
 
 ---
